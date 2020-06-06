@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(173, 173, 173);
+}
+
+.container {
+    max-width: 1090px;
+    background-color: rgb(166, 241, 223);
+    margin: 0 auto;
+}
+
+.profile-image {
+    height: 100px;
+    width: 120px;
+    border: 3px solid white;
+    border-radius: 45px;
+    padding: 10px;
+    margin-left: 20px;
+    float: left;
+    margin-top: 20px;
+}
+
+.headbio {
+    float: left;
+    padding: 50px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h4 {
+    color: #11999e;
+}
+
+.head-contact {
+    float: right;
+    padding: 30px;
+}
+
+.head-contact a {
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+
+.head-contact a:hover {
+    text-decoration: underline;
+    color: tomato;
+}
+
+.div-clcar {
+    clear: both;
+}
+
+hr {
+    border: solid black 3px;
+    max-width: 1090px;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+#personal-section {}
+
+.conten {}
+
+.left-div {
+    max-width: 30%;
+    float: left;
+}
+
+.right-div {
+    max-width: 70%;
+    float: left;
+    margin-left: 70px;
+}
+
+.common-hr {
+    border: solid black 1px;
+    border-bottom: none;
+    max-width: 1090px;
+    margin: 20px auto;
+}
+
+.edu-left {
+    float: left;
+    max-width: 45%;
+}
+
+.edu-right {
+    float: left;
+    max-width: 45%;
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer a {
+    color: wheat;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.footer p {
+    color: wheat;
+    margin: 20px;
+}
